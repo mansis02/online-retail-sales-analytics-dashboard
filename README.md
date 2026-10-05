@@ -29,11 +29,11 @@ The dashboard includes a **Day Name slicer** that dynamically updates KPIs and v
 
 ### Thursday Filter
 
-![Thursday Filter](Sunday_Filter%20%282%29.png)
+![Thursday Filter](Thursday_Filter%20%282%29.png)
 
 ### Sunday Filter
 
-![Sunday Filter](Thursday_Filter%20%282%29.png)
+![Sunday Filter](Sunday_Filter%20%282%29.png)
 
 These filtered views demonstrate how the dashboard responds to different day selections.
 
