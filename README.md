@@ -17,7 +17,7 @@ An end-to-end data analytics project using **Excel, MySQL, Power BI, and DAX** t
 
 The dashboard provides an overall view of sales performance across countries, products, days, and months.
 
-![Dashboard](Dashboard.png)
+![Dashboard](Online%20Retail%20Sales%20Dashboard%20New.png)
 
 ## Interactive Filtering
 
@@ -29,11 +29,11 @@ The dashboard includes a **Day Name slicer** that dynamically updates KPIs and v
 
 ### Thursday Filter
 
-![Thursday Filter](Thursday_Filter.png)
+![Thursday Filter](Sunday_Filter%20%282%29.png)
 
 ### Sunday Filter
 
-![Sunday Filter](Sunday_Filter.png)
+![Sunday Filter](Thursday_Filter%20%282%29.png)
 
 These filtered views demonstrate how the dashboard responds to different day selections.
 
@@ -66,4 +66,3 @@ The project analyzes online retail transaction data to identify sales trends and
 ## Key Learning
 
 This project provided hands-on experience with the complete analytics workflow, from data preparation and SQL analysis to building an interactive Power BI dashboard using DAX.
-
